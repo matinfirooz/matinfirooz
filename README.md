@@ -1,10 +1,9 @@
-# Hi, I'm Matin Firoozbakht 
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=AI+Hardware+Researcher;Computer+Vision+Enthusiast;Vision+Transformer+Accelerator+Designer;ASIC%2FFPGA+Architecture+Developer" />
+<img src="https://github-readme-stats.vercel.app/api?username=matinfirooz&show_icons=true&theme=tokyonight"/>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matinfirooz&label=Profile%20Views&color=blue&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinfirooz&layout=compact&theme=tokyonight"/>
 </p>
