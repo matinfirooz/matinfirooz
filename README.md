@@ -1,6 +1,17 @@
 # Hi, I'm Matin Firoozbakht 
 
-## Languages & Technologies
+## About Me
+
+Computer Engineering Researcher  
+AI Hardware Accelerator Designer  
+
+My research interests include:
+
+- Artificial intelligence and deep learning
+- Computer vision and visual understanding
+- Efficient AI algorithms and model optimization
+- AI acceleration and hardware-aware design
+- Edge intelligence and scalable machine learning systems
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -14,16 +25,3 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-## About Me
-
-Computer Engineering Researcher  
-AI Hardware Accelerator Designer  
-
-My research interests include:
-
-- Artificial intelligence and deep learning
-- Computer vision and visual understanding
-- Efficient AI algorithms and model optimization
-- AI acceleration and hardware-aware design
-- Edge intelligence and scalable machine learning systems
